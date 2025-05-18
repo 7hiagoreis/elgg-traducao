@@ -298,7 +298,7 @@ return array(
 
 
 /**
- * River  / Atividades
+ * River / Atividades
  */
 	'river' => "Atividades",
 	'river:user:friend' => "%s agora é amigo de %s",
