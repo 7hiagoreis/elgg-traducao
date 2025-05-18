@@ -491,7 +491,7 @@ Para ver a postagem completa, clique no link abaixo:
 	'menu:page:header:utilities' => 'Utilitários',
 	'menu:page:header:develop' => 'Desenvolvedor',
 	'menu:page:header:information' => 'Informações',
-	'menu:page:header:default' => 'Outro',
+	'menu:page:header:default' => 'Outras Opções',
 	'menu:page:header:plugin_settings' => 'Configurações dos Plugins',
 
 	'admin:view_site' => 'Ver Site',
