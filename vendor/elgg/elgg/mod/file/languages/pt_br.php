@@ -67,7 +67,7 @@ return array(
     'file:friends:type:image' => "Imagens dos seus Amigos",
     'file:friends:type:general' => "Arquivos gerais dos seus Amigos",
 
-    'widgets:filerepo:name' => "Widget de Arquivos",
+    'widgets:filerepo:name' => "Widget dos Arquivos",
     'widgets:filerepo:description' => "Mostre os seus Arquivos mais recentes",
 
     'groups:tool:file' => 'Ativar arquivos do grupo',
